@@ -21,4 +21,4 @@ to make you easy to integrate to your bash script,
 lemonbar script, etc.
 
 > Note that this project is work in progress - to be honest, this projest
-> is *just a new cargo project* now.
+> *just say hello to the world* now.
